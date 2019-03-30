@@ -21,3 +21,6 @@ then the command you should run is
 [Stack Overflow Link](https://stackoverflow.com/questions/25010369/wget-curl-large-file-from-google-drive)
 
 [Author](https://stackoverflow.com/users/1475331/user115202)
+
+### Medium Reference
+[Medium link](https://medium.com/tinghaochen/how-to-download-files-from-google-drive-through-terminal-4a6802707dbb)
